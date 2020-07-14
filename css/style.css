@@ -716,3 +716,9 @@ textarea {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+/* ---------- Custom CSS ---------- */
+.certification{
+	display : inline;
+	margin: 5px;
+}
