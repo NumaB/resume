@@ -64,7 +64,7 @@ h4 span {
 	color: #339BEB;
 }
 .text-colored {
-	color: #55acee;
+	color: white;
 }
 a {
 	color: #55acee;
@@ -721,4 +721,16 @@ textarea {
 .certification{
 	display : inline;
 	margin: 5px;
+}
+
+.greenie{
+	/*color: #6FC387;*/
+	color: green;
+	font-size: 1.2em;
+}
+
+.blackie{
+	/*color: #6FC387;*/
+	color: black;
+	font-size: 1.2em;
 }
